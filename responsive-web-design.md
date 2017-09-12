@@ -1,5 +1,7 @@
 # Responsive Web Design
 
+To follow the examples here, fork or clone this project: https://github.com/JBRC-ph/responsive-design-example
+
 ### Set the viewport in your HTML
 
 ```
