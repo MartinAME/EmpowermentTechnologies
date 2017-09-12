@@ -1,5 +1,7 @@
 # Using Web Fonts
 
+To follow the examples here, fork or clone this project: https://github.com/JBRC-ph/responsive-design-example
+
 ### Pick a font
 
 Pick the font from [https://fonts.google.com](https://fonts.google.com). If you're having a hard time picking one, here's a smaller, curated list: [https://www.typewolf.com/google-fonts](https://www.typewolf.com/google-fonts)
