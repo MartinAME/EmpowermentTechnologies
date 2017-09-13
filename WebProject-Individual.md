@@ -1,5 +1,14 @@
 # Web Project
 
+This will be your project for the quarter and will comprise 30% of your grade.
+
+Due Date: October 29, 2017
+By 23:59PM October 29, 2017, your site should be viewable on http://yourgithubusername.github.io/website/index.html
+
+You are required to submit two weekly written status reports on September 20/21 and September 27/28. Follow this [status report template](status-report-template.md)
+
+## Requirements
+
 Using [Bootstrap](http://getbootstrap.com), [Zurb Foundation](http://foundation.zurb.com), or [W3.CSS](http://www.w3schools.com/w3css/), create one of the following:
 
 - your personal blog site
